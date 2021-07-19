@@ -3,4 +3,4 @@
 * [x] k-Means
 * [x] k-Medians
 * [x] Expectation Maximisation (EM)
-* [x] Hrarchical Clustering
+* [x] Hierarchical Clustering
