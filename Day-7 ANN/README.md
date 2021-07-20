@@ -4,5 +4,5 @@
     - [x] Multilayer Perceptrons (MLP)
     - [x] Back-Propagation
     - [x] Stochastic Gradient Descent
-- [ ] Hopfield Network
-- [ ] Radial Basis Function Network (RBFN)
+- [x] Hopfield Network
+- [x] Radial Basis Function Network (RBFN)
